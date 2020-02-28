@@ -1,0 +1,6 @@
+1. A terminal is a place where you give commands to your computer to perform certain functions for the user.
+
+2. The major difference between Git and GitHub is Git is used to make changes to your local file. You can then stage, commit, and push your files to GitHub where you can make changes with many collaborators. GitHub is a database that can store changes to your git with many collaborators.
+
+3. We use GitHub to collaborate with people on projects we would like to code. It can also be used to store projects you might want to work on.
+
